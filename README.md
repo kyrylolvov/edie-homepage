@@ -51,7 +51,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Vue.js](https://vuejs.org/)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
